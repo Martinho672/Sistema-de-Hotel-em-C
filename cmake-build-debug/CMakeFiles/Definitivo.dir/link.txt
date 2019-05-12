@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Definitivo.dir/main.c.o CMakeFiles/Definitivo.dir/Operacaohospede.c.o CMakeFiles/Definitivo.dir/Codigos.c.o CMakeFiles/Definitivo.dir/OperacaoCodigo.c.o  -o Definitivo 

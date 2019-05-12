@@ -1,0 +1,3 @@
+/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/Definitivo.dir
+/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/edit_cache.dir

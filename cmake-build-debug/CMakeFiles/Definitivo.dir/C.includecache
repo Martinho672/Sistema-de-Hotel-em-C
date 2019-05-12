@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gungnir/CLionProjects/Definitivo/Codigos.h
+
+/home/gungnir/CLionProjects/Definitivo/OperacaoCodigo.c
+stdio.h
+-
+stdlib.h
+-
+OperacaoCodigo.h
+/home/gungnir/CLionProjects/Definitivo/OperacaoCodigo.h
+
+/home/gungnir/CLionProjects/Definitivo/OperacaoCodigo.h
+Codigos.h
+/home/gungnir/CLionProjects/Definitivo/Codigos.h
+
