@@ -123,59 +123,194 @@ Definitivo/fast:
 	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/build
 .PHONY : Definitivo/fast
 
-Codigos.o: Codigos.c.o
+Helper.o: Helper.c.o
 
-.PHONY : Codigos.o
-
-# target to build an object file
-Codigos.c.o:
-	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/Codigos.c.o
-.PHONY : Codigos.c.o
-
-Codigos.i: Codigos.c.i
-
-.PHONY : Codigos.i
-
-# target to preprocess a source file
-Codigos.c.i:
-	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/Codigos.c.i
-.PHONY : Codigos.c.i
-
-Codigos.s: Codigos.c.s
-
-.PHONY : Codigos.s
-
-# target to generate assembly for a file
-Codigos.c.s:
-	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/Codigos.c.s
-.PHONY : Codigos.c.s
-
-OperacaoCodigo.o: OperacaoCodigo.c.o
-
-.PHONY : OperacaoCodigo.o
+.PHONY : Helper.o
 
 # target to build an object file
-OperacaoCodigo.c.o:
-	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoCodigo.c.o
-.PHONY : OperacaoCodigo.c.o
+Helper.c.o:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/Helper.c.o
+.PHONY : Helper.c.o
 
-OperacaoCodigo.i: OperacaoCodigo.c.i
+Helper.i: Helper.c.i
 
-.PHONY : OperacaoCodigo.i
+.PHONY : Helper.i
 
 # target to preprocess a source file
-OperacaoCodigo.c.i:
-	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoCodigo.c.i
-.PHONY : OperacaoCodigo.c.i
+Helper.c.i:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/Helper.c.i
+.PHONY : Helper.c.i
 
-OperacaoCodigo.s: OperacaoCodigo.c.s
+Helper.s: Helper.c.s
 
-.PHONY : OperacaoCodigo.s
+.PHONY : Helper.s
 
 # target to generate assembly for a file
-OperacaoCodigo.c.s:
-	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoCodigo.c.s
-.PHONY : OperacaoCodigo.c.s
+Helper.c.s:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/Helper.c.s
+.PHONY : Helper.c.s
+
+Hotel.o: Hotel.c.o
+
+.PHONY : Hotel.o
+
+# target to build an object file
+Hotel.c.o:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/Hotel.c.o
+.PHONY : Hotel.c.o
+
+Hotel.i: Hotel.c.i
+
+.PHONY : Hotel.i
+
+# target to preprocess a source file
+Hotel.c.i:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/Hotel.c.i
+.PHONY : Hotel.c.i
+
+Hotel.s: Hotel.c.s
+
+.PHONY : Hotel.s
+
+# target to generate assembly for a file
+Hotel.c.s:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/Hotel.c.s
+.PHONY : Hotel.c.s
+
+OperacaoAcomodacoes.o: OperacaoAcomodacoes.c.o
+
+.PHONY : OperacaoAcomodacoes.o
+
+# target to build an object file
+OperacaoAcomodacoes.c.o:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.o
+.PHONY : OperacaoAcomodacoes.c.o
+
+OperacaoAcomodacoes.i: OperacaoAcomodacoes.c.i
+
+.PHONY : OperacaoAcomodacoes.i
+
+# target to preprocess a source file
+OperacaoAcomodacoes.c.i:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.i
+.PHONY : OperacaoAcomodacoes.c.i
+
+OperacaoAcomodacoes.s: OperacaoAcomodacoes.c.s
+
+.PHONY : OperacaoAcomodacoes.s
+
+# target to generate assembly for a file
+OperacaoAcomodacoes.c.s:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.s
+.PHONY : OperacaoAcomodacoes.c.s
+
+OperacaoCategoriaAcomodacoes.o: OperacaoCategoriaAcomodacoes.c.o
+
+.PHONY : OperacaoCategoriaAcomodacoes.o
+
+# target to build an object file
+OperacaoCategoriaAcomodacoes.c.o:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.o
+.PHONY : OperacaoCategoriaAcomodacoes.c.o
+
+OperacaoCategoriaAcomodacoes.i: OperacaoCategoriaAcomodacoes.c.i
+
+.PHONY : OperacaoCategoriaAcomodacoes.i
+
+# target to preprocess a source file
+OperacaoCategoriaAcomodacoes.c.i:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.i
+.PHONY : OperacaoCategoriaAcomodacoes.c.i
+
+OperacaoCategoriaAcomodacoes.s: OperacaoCategoriaAcomodacoes.c.s
+
+.PHONY : OperacaoCategoriaAcomodacoes.s
+
+# target to generate assembly for a file
+OperacaoCategoriaAcomodacoes.c.s:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.s
+.PHONY : OperacaoCategoriaAcomodacoes.c.s
+
+OperacaoFornecedores.o: OperacaoFornecedores.c.o
+
+.PHONY : OperacaoFornecedores.o
+
+# target to build an object file
+OperacaoFornecedores.c.o:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.o
+.PHONY : OperacaoFornecedores.c.o
+
+OperacaoFornecedores.i: OperacaoFornecedores.c.i
+
+.PHONY : OperacaoFornecedores.i
+
+# target to preprocess a source file
+OperacaoFornecedores.c.i:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.i
+.PHONY : OperacaoFornecedores.c.i
+
+OperacaoFornecedores.s: OperacaoFornecedores.c.s
+
+.PHONY : OperacaoFornecedores.s
+
+# target to generate assembly for a file
+OperacaoFornecedores.c.s:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.s
+.PHONY : OperacaoFornecedores.c.s
+
+OperacaoOperadores.o: OperacaoOperadores.c.o
+
+.PHONY : OperacaoOperadores.o
+
+# target to build an object file
+OperacaoOperadores.c.o:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoOperadores.c.o
+.PHONY : OperacaoOperadores.c.o
+
+OperacaoOperadores.i: OperacaoOperadores.c.i
+
+.PHONY : OperacaoOperadores.i
+
+# target to preprocess a source file
+OperacaoOperadores.c.i:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoOperadores.c.i
+.PHONY : OperacaoOperadores.c.i
+
+OperacaoOperadores.s: OperacaoOperadores.c.s
+
+.PHONY : OperacaoOperadores.s
+
+# target to generate assembly for a file
+OperacaoOperadores.c.s:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoOperadores.c.s
+.PHONY : OperacaoOperadores.c.s
+
+OperacaoProdutos.o: OperacaoProdutos.c.o
+
+.PHONY : OperacaoProdutos.o
+
+# target to build an object file
+OperacaoProdutos.c.o:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoProdutos.c.o
+.PHONY : OperacaoProdutos.c.o
+
+OperacaoProdutos.i: OperacaoProdutos.c.i
+
+.PHONY : OperacaoProdutos.i
+
+# target to preprocess a source file
+OperacaoProdutos.c.i:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoProdutos.c.i
+.PHONY : OperacaoProdutos.c.i
+
+OperacaoProdutos.s: OperacaoProdutos.c.s
+
+.PHONY : OperacaoProdutos.s
+
+# target to generate assembly for a file
+OperacaoProdutos.c.s:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/OperacaoProdutos.c.s
+.PHONY : OperacaoProdutos.c.s
 
 Operacaohospede.o: Operacaohospede.c.o
 
@@ -231,6 +366,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/main.c.s
 .PHONY : main.c.s
 
+operacaoReserva.o: operacaoReserva.c.o
+
+.PHONY : operacaoReserva.o
+
+# target to build an object file
+operacaoReserva.c.o:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/operacaoReserva.c.o
+.PHONY : operacaoReserva.c.o
+
+operacaoReserva.i: operacaoReserva.c.i
+
+.PHONY : operacaoReserva.i
+
+# target to preprocess a source file
+operacaoReserva.c.i:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/operacaoReserva.c.i
+.PHONY : operacaoReserva.c.i
+
+operacaoReserva.s: operacaoReserva.c.s
+
+.PHONY : operacaoReserva.s
+
+# target to generate assembly for a file
+operacaoReserva.c.s:
+	$(MAKE) -f CMakeFiles/Definitivo.dir/build.make CMakeFiles/Definitivo.dir/operacaoReserva.c.s
+.PHONY : operacaoReserva.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -240,18 +402,36 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Definitivo"
 	@echo "... edit_cache"
-	@echo "... Codigos.o"
-	@echo "... Codigos.i"
-	@echo "... Codigos.s"
-	@echo "... OperacaoCodigo.o"
-	@echo "... OperacaoCodigo.i"
-	@echo "... OperacaoCodigo.s"
+	@echo "... Helper.o"
+	@echo "... Helper.i"
+	@echo "... Helper.s"
+	@echo "... Hotel.o"
+	@echo "... Hotel.i"
+	@echo "... Hotel.s"
+	@echo "... OperacaoAcomodacoes.o"
+	@echo "... OperacaoAcomodacoes.i"
+	@echo "... OperacaoAcomodacoes.s"
+	@echo "... OperacaoCategoriaAcomodacoes.o"
+	@echo "... OperacaoCategoriaAcomodacoes.i"
+	@echo "... OperacaoCategoriaAcomodacoes.s"
+	@echo "... OperacaoFornecedores.o"
+	@echo "... OperacaoFornecedores.i"
+	@echo "... OperacaoFornecedores.s"
+	@echo "... OperacaoOperadores.o"
+	@echo "... OperacaoOperadores.i"
+	@echo "... OperacaoOperadores.s"
+	@echo "... OperacaoProdutos.o"
+	@echo "... OperacaoProdutos.i"
+	@echo "... OperacaoProdutos.s"
 	@echo "... Operacaohospede.o"
 	@echo "... Operacaohospede.i"
 	@echo "... Operacaohospede.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... operacaoReserva.o"
+	@echo "... operacaoReserva.i"
+	@echo "... operacaoReserva.s"
 .PHONY : help
 
 

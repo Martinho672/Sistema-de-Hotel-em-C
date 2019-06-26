@@ -1,8 +1,8 @@
-
-
 typedef struct {
     int codigoHospede;
-    int codigoHotel;
+    int codigoFornecedor;
+    int codigoOperador;
+    int codigoAcomodacoes;
+    int codigoCategoriaAcomodacoes;
+    int codigoProduto;
 } Codigo;
-
-int RetornaCodigo(int opc, Codigo *codigo);

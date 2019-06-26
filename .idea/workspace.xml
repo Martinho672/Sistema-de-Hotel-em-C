@@ -11,7 +11,61 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5599a1c-6b4b-473f-b250-1d4baa1e45c1" name="Default Changelist" comment="" />
+    <list default="true" id="b5599a1c-6b4b-473f-b250-1d4baa1e45c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Acomodacoes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CategoriaAcomodacoes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fornecedores.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Helper.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hotel.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hotel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacaoAcomodacoes.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacaoAcomodacoes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacaoCategoriaAcomodacoes.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacaoCategoriaAcomodacoes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacaoFornecedores.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacaoFornecedores.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacaoHotel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacaoOperadores.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacaoOperadores.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacaoProdutos.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacaoProdutos.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operador.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Produto.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reserva.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operacaoReserva.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operacaoReserva.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos.h" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Helper.h" beforeDir="false" afterPath="$PROJECT_DIR$/Helper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospede.h" beforeDir="false" afterPath="$PROJECT_DIR$/Hospede.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperacaoCodigo.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperacaoCodigo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operacaohospede.c" beforeDir="false" afterPath="$PROJECT_DIR$/Operacaohospede.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operacaohospede.h" beforeDir="false" afterPath="$PROJECT_DIR$/Operacaohospede.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/Codigos.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/Operacaohospede.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/Operacaohospede.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Definitivo.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Definitivo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Definitivo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Definitivo.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Hospede.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Hospede.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,23 +76,92 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+            <state relative-caret-position="408">
+              <caret line="725" selection-start-line="725" selection-end-line="725" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#1928#5614#0" />
+                <element signature="e#6810#7244#0" />
+                <element signature="e#7246#8712#0" />
+                <element signature="e#8714#9963#0" />
+                <element signature="e#9965#11346#0" />
+                <element signature="e#11348#12498#0" />
+                <element signature="e#12500#13559#0" />
+                <element signature="e#13561#14694#0" />
+                <element signature="e#14696#15723#0" />
+                <element signature="e#15725#18133#0" />
+                <element signature="e#19136#20958#0" />
+                <element signature="e#19959#21680#0" />
+                <element signature="e#21682#22739#0" />
+                <element signature="e#22741#23762#0" />
+                <element signature="e#23764#24930#0" />
+                <element signature="e#24932#26057#0" />
+                <element signature="e#26059#27691#0" />
+                <element signature="e#27693#34365#0" />
+                <element signature="e#34367#35429#0" />
+                <element signature="e#35431#38149#0" />
+                <element signature="e#38151#39350#0" />
+                <element signature="e#39352#41586#0" />
+                <element signature="e#41588#45076#0" />
+                <element signature="e#45078#48332#0" />
+                <element signature="e#48334#51199#0" />
+                <element signature="e#51201#53581#0" />
+                <element signature="e#53583#55862#0" />
+                <element signature="e#55864#58553#0" />
+                <element signature="e#58555#61333#0" />
+                <element signature="e#61335#62263#0" />
+                <element signature="e#62265#63302#0" />
+                <element signature="e#63304#64274#0" />
+                <element signature="e#64276#65384#0" />
+                <element signature="e#65386#66775#0" />
+                <element signature="e#66777#68125#0" />
+                <element signature="e#68128#68311#0" />
+                <element signature="e#68313#68517#0" />
+                <element signature="e#68519#68719#0" />
+                <element signature="e#68919#69118#0" />
+                <element signature="e#69120#69303#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OperacaoAcomodacoes.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="88" column="4" lean-forward="true" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="43" />
+              <folding>
+                <element signature="e#55#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OperacaoAcomodacoes.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -47,24 +170,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Helper.h">
+        <entry file="file://$PROJECT_DIR$/Acomodacoes.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="51">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Codigos.h">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Reserva.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Codigos.c">
+        <entry file="file://$PROJECT_DIR$/operacaoReserva.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            <state relative-caret-position="612">
+              <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -73,48 +200,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OperacaoCodigo.h">
+        <entry file="file://$PROJECT_DIR$/operacaoReserva.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OperacaoCodigo.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-91">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Operacaohospede.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Operacaohospede.h">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hospede.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -123,8 +212,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>-</find>
       <find>-&gt;</find>
+      <find>altera</find>
+      <find>alterahospede</find>
+      <find>DesativaHospede</find>
+      <find>desativa</find>
+      <find>listar</find>
+      <find>alterar</find>
+      <find>alterarCategoria</find>
+      <find>listarCate</find>
+      <find>menuProdutos</find>
+      <find>listarH</find>
+      <find>listarP</find>
+      <find>cadastrarP</find>
+      <find>buscarP</find>
+      <find>listarAc</find>
+      <find>cadastrarC</find>
+      <find>buscarCa</find>
+      <find>cadastrarCa</find>
+      <find>CadastrarA</find>
+      <find>ListarC</find>
+      <find>ListarA</find>
+      <find>CadastrarAc</find>
+      <find>CategoriaA</find>
+      <find>cadastrarCate</find>
+      <find>ListarCa</find>
+      <find>menuPrincipal</find>
+      <find>listarAcomo</find>
+      <find>menuGere</find>
+      <find>fazerReserva</find>
+      <find>verificarRe</find>
     </findStrings>
     <replaceStrings>
       <replace>[cont]</replace>
@@ -132,35 +249,69 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Alg II" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Operacaohospede.h" />
         <option value="$PROJECT_DIR$/hospede.h" />
-        <option value="$PROJECT_DIR$/Operacaohospede.c" />
         <option value="$PROJECT_DIR$/cmake-build-debug/codigo.h" />
         <option value="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/operacaoCodigo.c" />
         <option value="$PROJECT_DIR$/codigo.h" />
         <option value="$PROJECT_DIR$/cmake-build-debug/helper.h" />
         <option value="$PROJECT_DIR$/helper.h" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/main.c" />
-        <option value="$PROJECT_DIR$/Codigos.h" />
         <option value="$PROJECT_DIR$/Codigos.c" />
         <option value="$PROJECT_DIR$/OperacaoCodigo.h" />
         <option value="$PROJECT_DIR$/OperacaoCodigo.c" />
+        <option value="$PROJECT_DIR$/Fornecedores.c" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/OperacaoFornecedores.h" />
+        <option value="$PROJECT_DIR$/OperacaoOperadorSistema.c" />
+        <option value="$PROJECT_DIR$/OperacaoFuncionarios.c" />
+        <option value="$PROJECT_DIR$/Funcionario.h" />
+        <option value="$PROJECT_DIR$/Operador.h" />
+        <option value="$PROJECT_DIR$/Fornecedores.h" />
+        <option value="$PROJECT_DIR$/Helper.h" />
+        <option value="$PROJECT_DIR$/Hotel.h" />
+        <option value="$PROJECT_DIR$/Operacaohospede.h" />
+        <option value="$PROJECT_DIR$/Operacaohospede.c" />
+        <option value="$PROJECT_DIR$/OperacaoFornecedores.h" />
+        <option value="$PROJECT_DIR$/OperacaoOperadores.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/OperacaoAcomodacoes.h" />
+        <option value="$PROJECT_DIR$/CategoriaAcomodacoes.c" />
+        <option value="$PROJECT_DIR$/CategoriaAcomodacoes.h" />
+        <option value="$PROJECT_DIR$/OperacaoCategoriaAcomodacoes.h" />
+        <option value="$PROJECT_DIR$/OperacaoCategoriaAcomodacoes.c" />
+        <option value="$PROJECT_DIR$/OperacaoFornecedores.c" />
+        <option value="$PROJECT_DIR$/Produto.h" />
+        <option value="$PROJECT_DIR$/Codigos.h" />
+        <option value="$PROJECT_DIR$/OperacaoProdutos.h" />
+        <option value="$PROJECT_DIR$/OperacaoProdutos.c" />
+        <option value="$PROJECT_DIR$/OperacaoOperadores.c" />
+        <option value="$PROJECT_DIR$/Helper.c" />
+        <option value="$PROJECT_DIR$/Hospede.h" />
+        <option value="$PROJECT_DIR$/OperacaoHotel.h" />
+        <option value="$PROJECT_DIR$/Hotel.c" />
+        <option value="$PROJECT_DIR$/Reserva.h" />
+        <option value="$PROJECT_DIR$/operacaoReserva.h" />
+        <option value="$PROJECT_DIR$/operacaoReserva.c" />
+        <option value="$PROJECT_DIR$/Acomodacoes.h" />
+        <option value="$PROJECT_DIR$/OperacaoAcomodacoes.h" />
+        <option value="$PROJECT_DIR$/OperacaoAcomodacoes.c" />
+        <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
   </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="192" />
-    <option name="y" value="69" />
-    <option name="width" value="969" />
-    <option name="height" value="727" />
+    <option name="x" value="800" />
+    <option name="y" value="92" />
+    <option name="width" value="770" />
+    <option name="height" value="664" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -181,6 +332,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -188,7 +340,8 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,24 +385,119 @@
       <workItem from="1557673808435" duration="1436000" />
       <workItem from="1557675275842" duration="599000" />
       <workItem from="1557695314628" duration="151000" />
-      <workItem from="1557695512558" duration="308000" />
+      <workItem from="1557695512558" duration="917000" />
+      <workItem from="1557756153684" duration="105000" />
+      <workItem from="1557756292418" duration="30000" />
+      <workItem from="1557884069654" duration="4930000" />
+      <workItem from="1557926766208" duration="397000" />
+      <workItem from="1557927191408" duration="4056000" />
+      <workItem from="1557943647031" duration="1915000" />
+      <workItem from="1558012307606" duration="5068000" />
+      <workItem from="1558048104116" duration="609000" />
+      <workItem from="1558119811970" duration="6412000" />
+      <workItem from="1558132741364" duration="3643000" />
+      <workItem from="1558202080774" duration="8450000" />
+      <workItem from="1558304346637" duration="2788000" />
+      <workItem from="1558370701887" duration="3141000" />
+      <workItem from="1558398290728" duration="1282000" />
+      <workItem from="1558439606522" duration="4420000" />
+      <workItem from="1558477786801" duration="6776000" />
+      <workItem from="1558543051623" duration="5084000" />
+      <workItem from="1558549034273" duration="430000" />
+      <workItem from="1558649045078" duration="3556000" />
+      <workItem from="1558801691296" duration="2251000" />
+      <workItem from="1558915524609" duration="2041000" />
+      <workItem from="1558918092041" duration="307000" />
+      <workItem from="1558918425155" duration="924000" />
+      <workItem from="1558975074001" duration="970000" />
+      <workItem from="1558976067915" duration="896000" />
+      <workItem from="1558976987707" duration="3344000" />
+      <workItem from="1559149548049" duration="3649000" />
+      <workItem from="1559575480476" duration="1075000" />
+      <workItem from="1560185237486" duration="4080000" />
+      <workItem from="1560189353540" duration="729000" />
+      <workItem from="1560349061617" duration="7549000" />
+      <workItem from="1560361130483" duration="1332000" />
+      <workItem from="1560376998851" duration="3122000" />
+      <workItem from="1560432445831" duration="4729000" />
+      <workItem from="1560446123279" duration="4837000" />
+      <workItem from="1560457863271" duration="2979000" />
+      <workItem from="1560461327798" duration="235000" />
+      <workItem from="1560461585638" duration="1924000" />
+      <workItem from="1560535964693" duration="1288000" />
+      <workItem from="1560625796369" duration="5045000" />
+      <workItem from="1560645234127" duration="8188000" />
+      <workItem from="1560700586887" duration="630000" />
+      <workItem from="1560701261429" duration="491000" />
+      <workItem from="1560701835510" duration="5318000" />
+      <workItem from="1560713664686" duration="8478000" />
+      <workItem from="1560776930184" duration="6481000" />
+      <workItem from="1560791156895" duration="288000" />
+      <workItem from="1560793097885" duration="769000" />
+      <workItem from="1560793890347" duration="678000" />
+      <workItem from="1560794589417" duration="6725000" />
+      <workItem from="1560817696031" duration="1821000" />
+      <workItem from="1560819542781" duration="1512000" />
+      <workItem from="1560892244489" duration="8837000" />
+      <workItem from="1561052131078" duration="9384000" />
+      <workItem from="1561136835305" duration="2633000" />
+      <workItem from="1561169750669" duration="3080000" />
+      <workItem from="1561210416484" duration="764000" />
+      <workItem from="1561211229441" duration="6064000" />
+      <workItem from="1561229126664" duration="3101000" />
+      <workItem from="1561243136417" duration="2179000" />
+      <workItem from="1561298961508" duration="1320000" />
+      <workItem from="1561310944814" duration="2275000" />
+      <workItem from="1561329861495" duration="3994000" />
+      <workItem from="1561380567686" duration="8878000" />
+      <workItem from="1561397170648" duration="3148000" />
+      <workItem from="1561401039753" duration="474000" />
+      <workItem from="1561401548433" duration="376000" />
+      <workItem from="1561408063353" duration="1316000" />
+      <workItem from="1561409406028" duration="6016000" />
+      <workItem from="1561490666633" duration="947000" />
+      <workItem from="1561491641753" duration="2376000" />
+      <workItem from="1561498977022" duration="2058000" />
+      <workItem from="1561557514110" duration="3479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16707000" />
+    <option name="totallyTimeSpent" value="247792000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="19" width="1600" height="881" extended-state="7" />
+    <frame x="0" y="19" width="1600" height="881" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22072072" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17052767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32933334" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37066665" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.196" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.348" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32933334" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32933334" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.456" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32947233" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15444015" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32933334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44385028" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2526738" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -258,15 +506,22 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="CMake" order="11" weight="0.32933334" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32486632" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.44919786" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="hospede-&gt;rua" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/codigo.h" />
@@ -279,69 +534,285 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
+    <entry file="file://$PROJECT_DIR$/OperacaoCodigo.c" />
+    <entry file="file://$PROJECT_DIR$/OperacaoCodigo.h" />
+    <entry file="file://$PROJECT_DIR$/Codigos.c" />
+    <entry file="file://$PROJECT_DIR$/Fornecedores.c" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/OperacaoFornecedores.h" />
+    <entry file="file://$PROJECT_DIR$/OperacaoOperadorSistema.c" />
+    <entry file="file://$PROJECT_DIR$/Funcionarios.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/OperacaoAcomodacoes.h" />
+    <entry file="file://$PROJECT_DIR$/OperacaoOperadores.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperacaoFornecedores.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operador.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fornecedores.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperacaoCategoriaAcomodacoes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CategoriaAcomodacoes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Helper.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Codigos.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Codigos.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#58#77#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OperacaoCodigo.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Operacaohospede.c">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operacaohospede.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Codigos.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperacaoProdutos.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hospede.h">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helper.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1147">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperacaoProdutos.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-433">
+          <caret line="54" column="12" lean-forward="true" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Operacaohospede.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hospede.h">
+    <entry file="file://$PROJECT_DIR$/Produto.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OperacaoCodigo.c">
+    <entry file="file://$PROJECT_DIR$/OperacaoCategoriaAcomodacoes.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-91">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="451">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperacaoHotel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdlib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6732">
+          <caret line="538" column="13" selection-start-line="538" selection-start-column="13" selection-end-line="538" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hotel.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="42" selection-end-column="5" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hotel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperacaoOperadores.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operacaoReserva.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperacaoFornecedores.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operacaoReserva.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Acomodacoes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reserva.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperacaoAcomodacoes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperacaoAcomodacoes.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="88" column="4" lean-forward="true" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="43" />
+          <folding>
+            <element signature="e#55#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="725" selection-start-line="725" selection-end-line="725" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1928#5614#0" />
+            <element signature="e#6810#7244#0" />
+            <element signature="e#7246#8712#0" />
+            <element signature="e#8714#9963#0" />
+            <element signature="e#9965#11346#0" />
+            <element signature="e#11348#12498#0" />
+            <element signature="e#12500#13559#0" />
+            <element signature="e#13561#14694#0" />
+            <element signature="e#14696#15723#0" />
+            <element signature="e#15725#18133#0" />
+            <element signature="e#19136#20958#0" />
+            <element signature="e#19959#21680#0" />
+            <element signature="e#21682#22739#0" />
+            <element signature="e#22741#23762#0" />
+            <element signature="e#23764#24930#0" />
+            <element signature="e#24932#26057#0" />
+            <element signature="e#26059#27691#0" />
+            <element signature="e#27693#34365#0" />
+            <element signature="e#34367#35429#0" />
+            <element signature="e#35431#38149#0" />
+            <element signature="e#38151#39350#0" />
+            <element signature="e#39352#41586#0" />
+            <element signature="e#41588#45076#0" />
+            <element signature="e#45078#48332#0" />
+            <element signature="e#48334#51199#0" />
+            <element signature="e#51201#53581#0" />
+            <element signature="e#53583#55862#0" />
+            <element signature="e#55864#58553#0" />
+            <element signature="e#58555#61333#0" />
+            <element signature="e#61335#62263#0" />
+            <element signature="e#62265#63302#0" />
+            <element signature="e#63304#64274#0" />
+            <element signature="e#64276#65384#0" />
+            <element signature="e#65386#66775#0" />
+            <element signature="e#66777#68125#0" />
+            <element signature="e#68128#68311#0" />
+            <element signature="e#68313#68517#0" />
+            <element signature="e#68519#68719#0" />
+            <element signature="e#68919#69118#0" />
+            <element signature="e#69120#69303#0" />
           </folding>
         </state>
       </provider>

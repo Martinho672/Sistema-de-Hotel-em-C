@@ -78,10 +78,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Codigos.c">
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Acomodacoes.h">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/CategoriaAcomodacoes.h">
 			<Option target="Definitivo"/>
 		</Unit>
 		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Codigos.h">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Fornecedores.h">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Helper.c">
 			<Option target="Definitivo"/>
 		</Unit>
 		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Helper.h">
@@ -90,10 +99,43 @@
 		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Hospede.h">
 			<Option target="Definitivo"/>
 		</Unit>
-		<Unit filename="/home/gungnir/CLionProjects/Definitivo/OperacaoCodigo.c">
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Hotel.c">
 			<Option target="Definitivo"/>
 		</Unit>
-		<Unit filename="/home/gungnir/CLionProjects/Definitivo/OperacaoCodigo.h">
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Hotel.h">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/OperacaoAcomodacoes.c">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/OperacaoAcomodacoes.h">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/OperacaoCategoriaAcomodacoes.c">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/OperacaoCategoriaAcomodacoes.h">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/OperacaoFornecedores.c">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/OperacaoFornecedores.h">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/OperacaoHotel.h">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/OperacaoOperadores.c">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/OperacaoOperadores.h">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/OperacaoProdutos.c">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/OperacaoProdutos.h">
 			<Option target="Definitivo"/>
 		</Unit>
 		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Operacaohospede.c">
@@ -102,7 +144,22 @@
 		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Operacaohospede.h">
 			<Option target="Definitivo"/>
 		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Operador.h">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Produto.h">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/Reserva.h">
+			<Option target="Definitivo"/>
+		</Unit>
 		<Unit filename="/home/gungnir/CLionProjects/Definitivo/main.c">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/operacaoReserva.c">
+			<Option target="Definitivo"/>
+		</Unit>
+		<Unit filename="/home/gungnir/CLionProjects/Definitivo/operacaoReserva.h">
 			<Option target="Definitivo"/>
 		</Unit>
 		<Unit filename="/home/gungnir/CLionProjects/Definitivo/CMakeLists.txt">

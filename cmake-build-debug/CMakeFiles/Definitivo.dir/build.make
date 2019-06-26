@@ -83,49 +83,139 @@ CMakeFiles/Definitivo.dir/Operacaohospede.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Definitivo.dir/Operacaohospede.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/gungnir/CLionProjects/Definitivo/Operacaohospede.c -o CMakeFiles/Definitivo.dir/Operacaohospede.c.s
 
-CMakeFiles/Definitivo.dir/Codigos.c.o: CMakeFiles/Definitivo.dir/flags.make
-CMakeFiles/Definitivo.dir/Codigos.c.o: ../Codigos.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Definitivo.dir/Codigos.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Definitivo.dir/Codigos.c.o   -c /home/gungnir/CLionProjects/Definitivo/Codigos.c
+CMakeFiles/Definitivo.dir/Helper.c.o: CMakeFiles/Definitivo.dir/flags.make
+CMakeFiles/Definitivo.dir/Helper.c.o: ../Helper.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Definitivo.dir/Helper.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Definitivo.dir/Helper.c.o   -c /home/gungnir/CLionProjects/Definitivo/Helper.c
 
-CMakeFiles/Definitivo.dir/Codigos.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Definitivo.dir/Codigos.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/gungnir/CLionProjects/Definitivo/Codigos.c > CMakeFiles/Definitivo.dir/Codigos.c.i
+CMakeFiles/Definitivo.dir/Helper.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Definitivo.dir/Helper.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/gungnir/CLionProjects/Definitivo/Helper.c > CMakeFiles/Definitivo.dir/Helper.c.i
 
-CMakeFiles/Definitivo.dir/Codigos.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Definitivo.dir/Codigos.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/gungnir/CLionProjects/Definitivo/Codigos.c -o CMakeFiles/Definitivo.dir/Codigos.c.s
+CMakeFiles/Definitivo.dir/Helper.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Definitivo.dir/Helper.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/gungnir/CLionProjects/Definitivo/Helper.c -o CMakeFiles/Definitivo.dir/Helper.c.s
 
-CMakeFiles/Definitivo.dir/OperacaoCodigo.c.o: CMakeFiles/Definitivo.dir/flags.make
-CMakeFiles/Definitivo.dir/OperacaoCodigo.c.o: ../OperacaoCodigo.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Definitivo.dir/OperacaoCodigo.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Definitivo.dir/OperacaoCodigo.c.o   -c /home/gungnir/CLionProjects/Definitivo/OperacaoCodigo.c
+CMakeFiles/Definitivo.dir/Hotel.c.o: CMakeFiles/Definitivo.dir/flags.make
+CMakeFiles/Definitivo.dir/Hotel.c.o: ../Hotel.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Definitivo.dir/Hotel.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Definitivo.dir/Hotel.c.o   -c /home/gungnir/CLionProjects/Definitivo/Hotel.c
 
-CMakeFiles/Definitivo.dir/OperacaoCodigo.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Definitivo.dir/OperacaoCodigo.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/gungnir/CLionProjects/Definitivo/OperacaoCodigo.c > CMakeFiles/Definitivo.dir/OperacaoCodigo.c.i
+CMakeFiles/Definitivo.dir/Hotel.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Definitivo.dir/Hotel.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/gungnir/CLionProjects/Definitivo/Hotel.c > CMakeFiles/Definitivo.dir/Hotel.c.i
 
-CMakeFiles/Definitivo.dir/OperacaoCodigo.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Definitivo.dir/OperacaoCodigo.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/gungnir/CLionProjects/Definitivo/OperacaoCodigo.c -o CMakeFiles/Definitivo.dir/OperacaoCodigo.c.s
+CMakeFiles/Definitivo.dir/Hotel.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Definitivo.dir/Hotel.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/gungnir/CLionProjects/Definitivo/Hotel.c -o CMakeFiles/Definitivo.dir/Hotel.c.s
+
+CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.o: CMakeFiles/Definitivo.dir/flags.make
+CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.o: ../OperacaoFornecedores.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.o   -c /home/gungnir/CLionProjects/Definitivo/OperacaoFornecedores.c
+
+CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/gungnir/CLionProjects/Definitivo/OperacaoFornecedores.c > CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.i
+
+CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/gungnir/CLionProjects/Definitivo/OperacaoFornecedores.c -o CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.s
+
+CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.o: CMakeFiles/Definitivo.dir/flags.make
+CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.o: ../OperacaoAcomodacoes.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.o   -c /home/gungnir/CLionProjects/Definitivo/OperacaoAcomodacoes.c
+
+CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/gungnir/CLionProjects/Definitivo/OperacaoAcomodacoes.c > CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.i
+
+CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/gungnir/CLionProjects/Definitivo/OperacaoAcomodacoes.c -o CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.s
+
+CMakeFiles/Definitivo.dir/OperacaoOperadores.c.o: CMakeFiles/Definitivo.dir/flags.make
+CMakeFiles/Definitivo.dir/OperacaoOperadores.c.o: ../OperacaoOperadores.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Definitivo.dir/OperacaoOperadores.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Definitivo.dir/OperacaoOperadores.c.o   -c /home/gungnir/CLionProjects/Definitivo/OperacaoOperadores.c
+
+CMakeFiles/Definitivo.dir/OperacaoOperadores.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Definitivo.dir/OperacaoOperadores.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/gungnir/CLionProjects/Definitivo/OperacaoOperadores.c > CMakeFiles/Definitivo.dir/OperacaoOperadores.c.i
+
+CMakeFiles/Definitivo.dir/OperacaoOperadores.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Definitivo.dir/OperacaoOperadores.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/gungnir/CLionProjects/Definitivo/OperacaoOperadores.c -o CMakeFiles/Definitivo.dir/OperacaoOperadores.c.s
+
+CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.o: CMakeFiles/Definitivo.dir/flags.make
+CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.o: ../OperacaoCategoriaAcomodacoes.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.o   -c /home/gungnir/CLionProjects/Definitivo/OperacaoCategoriaAcomodacoes.c
+
+CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/gungnir/CLionProjects/Definitivo/OperacaoCategoriaAcomodacoes.c > CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.i
+
+CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/gungnir/CLionProjects/Definitivo/OperacaoCategoriaAcomodacoes.c -o CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.s
+
+CMakeFiles/Definitivo.dir/OperacaoProdutos.c.o: CMakeFiles/Definitivo.dir/flags.make
+CMakeFiles/Definitivo.dir/OperacaoProdutos.c.o: ../OperacaoProdutos.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/Definitivo.dir/OperacaoProdutos.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Definitivo.dir/OperacaoProdutos.c.o   -c /home/gungnir/CLionProjects/Definitivo/OperacaoProdutos.c
+
+CMakeFiles/Definitivo.dir/OperacaoProdutos.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Definitivo.dir/OperacaoProdutos.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/gungnir/CLionProjects/Definitivo/OperacaoProdutos.c > CMakeFiles/Definitivo.dir/OperacaoProdutos.c.i
+
+CMakeFiles/Definitivo.dir/OperacaoProdutos.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Definitivo.dir/OperacaoProdutos.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/gungnir/CLionProjects/Definitivo/OperacaoProdutos.c -o CMakeFiles/Definitivo.dir/OperacaoProdutos.c.s
+
+CMakeFiles/Definitivo.dir/operacaoReserva.c.o: CMakeFiles/Definitivo.dir/flags.make
+CMakeFiles/Definitivo.dir/operacaoReserva.c.o: ../operacaoReserva.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/Definitivo.dir/operacaoReserva.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Definitivo.dir/operacaoReserva.c.o   -c /home/gungnir/CLionProjects/Definitivo/operacaoReserva.c
+
+CMakeFiles/Definitivo.dir/operacaoReserva.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Definitivo.dir/operacaoReserva.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/gungnir/CLionProjects/Definitivo/operacaoReserva.c > CMakeFiles/Definitivo.dir/operacaoReserva.c.i
+
+CMakeFiles/Definitivo.dir/operacaoReserva.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Definitivo.dir/operacaoReserva.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/gungnir/CLionProjects/Definitivo/operacaoReserva.c -o CMakeFiles/Definitivo.dir/operacaoReserva.c.s
 
 # Object files for target Definitivo
 Definitivo_OBJECTS = \
 "CMakeFiles/Definitivo.dir/main.c.o" \
 "CMakeFiles/Definitivo.dir/Operacaohospede.c.o" \
-"CMakeFiles/Definitivo.dir/Codigos.c.o" \
-"CMakeFiles/Definitivo.dir/OperacaoCodigo.c.o"
+"CMakeFiles/Definitivo.dir/Helper.c.o" \
+"CMakeFiles/Definitivo.dir/Hotel.c.o" \
+"CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.o" \
+"CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.o" \
+"CMakeFiles/Definitivo.dir/OperacaoOperadores.c.o" \
+"CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.o" \
+"CMakeFiles/Definitivo.dir/OperacaoProdutos.c.o" \
+"CMakeFiles/Definitivo.dir/operacaoReserva.c.o"
 
 # External object files for target Definitivo
 Definitivo_EXTERNAL_OBJECTS =
 
 Definitivo: CMakeFiles/Definitivo.dir/main.c.o
 Definitivo: CMakeFiles/Definitivo.dir/Operacaohospede.c.o
-Definitivo: CMakeFiles/Definitivo.dir/Codigos.c.o
-Definitivo: CMakeFiles/Definitivo.dir/OperacaoCodigo.c.o
+Definitivo: CMakeFiles/Definitivo.dir/Helper.c.o
+Definitivo: CMakeFiles/Definitivo.dir/Hotel.c.o
+Definitivo: CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.o
+Definitivo: CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.o
+Definitivo: CMakeFiles/Definitivo.dir/OperacaoOperadores.c.o
+Definitivo: CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.o
+Definitivo: CMakeFiles/Definitivo.dir/OperacaoProdutos.c.o
+Definitivo: CMakeFiles/Definitivo.dir/operacaoReserva.c.o
 Definitivo: CMakeFiles/Definitivo.dir/build.make
 Definitivo: CMakeFiles/Definitivo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable Definitivo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking C executable Definitivo"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Definitivo.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

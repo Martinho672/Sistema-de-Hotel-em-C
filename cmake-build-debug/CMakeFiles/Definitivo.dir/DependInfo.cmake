@@ -4,10 +4,16 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/gungnir/CLionProjects/Definitivo/Codigos.c" "/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/Definitivo.dir/Codigos.c.o"
-  "/home/gungnir/CLionProjects/Definitivo/OperacaoCodigo.c" "/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/Definitivo.dir/OperacaoCodigo.c.o"
+  "/home/gungnir/CLionProjects/Definitivo/Helper.c" "/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/Definitivo.dir/Helper.c.o"
+  "/home/gungnir/CLionProjects/Definitivo/Hotel.c" "/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/Definitivo.dir/Hotel.c.o"
+  "/home/gungnir/CLionProjects/Definitivo/OperacaoAcomodacoes.c" "/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/Definitivo.dir/OperacaoAcomodacoes.c.o"
+  "/home/gungnir/CLionProjects/Definitivo/OperacaoCategoriaAcomodacoes.c" "/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/Definitivo.dir/OperacaoCategoriaAcomodacoes.c.o"
+  "/home/gungnir/CLionProjects/Definitivo/OperacaoFornecedores.c" "/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/Definitivo.dir/OperacaoFornecedores.c.o"
+  "/home/gungnir/CLionProjects/Definitivo/OperacaoOperadores.c" "/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/Definitivo.dir/OperacaoOperadores.c.o"
+  "/home/gungnir/CLionProjects/Definitivo/OperacaoProdutos.c" "/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/Definitivo.dir/OperacaoProdutos.c.o"
   "/home/gungnir/CLionProjects/Definitivo/Operacaohospede.c" "/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/Definitivo.dir/Operacaohospede.c.o"
   "/home/gungnir/CLionProjects/Definitivo/main.c" "/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/Definitivo.dir/main.c.o"
+  "/home/gungnir/CLionProjects/Definitivo/operacaoReserva.c" "/home/gungnir/CLionProjects/Definitivo/cmake-build-debug/CMakeFiles/Definitivo.dir/operacaoReserva.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
